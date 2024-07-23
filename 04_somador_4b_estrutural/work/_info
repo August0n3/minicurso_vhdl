@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/gusti/Documents/VHDL/03_ALU
+Esomador4b
+w1718399762
+Z0 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z1 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z2 dC:/Users/gusti/Documents/VHDL/04_somador_4b_estrutural
+8C:/Users/gusti/Documents/VHDL/04_somador_4b_estrutural/somador4b.vhd
+FC:/Users/gusti/Documents/VHDL/04_somador_4b_estrutural/somador4b.vhd
+l0
+L10
+V[Xi<o^h[_XaUAAEO3;OL_1
+!s100 [5LzCjXTo8f:O]HkLX:PY2
+Z3 OV;C;10.5b;63
+32
+Z4 !s110 1718399766
+!i10b 1
+Z5 !s108 1718399766.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/gusti/Documents/VHDL/04_somador_4b_estrutural/somador4b.vhd|
+!s107 C:/Users/gusti/Documents/VHDL/04_somador_4b_estrutural/somador4b.vhd|
+!i113 1
+Z6 o-work work -2002 -explicit
+Z7 tExplicit 1 CvgOpt 0
+Esomadorcompleto
+Z8 w1718392652
+R0
+R1
+R2
+Z9 8C:/Users/gusti/Documents/VHDL/04_somador_4b_estrutural/somadorcompleto.vhd
+Z10 FC:/Users/gusti/Documents/VHDL/04_somador_4b_estrutural/somadorcompleto.vhd
+l0
+L10
+V6g`_DRz1SG0D7_;_[aOH]3
+!s100 oa8[PAZNdFRH9CS4Z1Ja[2
+R3
+32
+R4
+!i10b 1
+R5
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/gusti/Documents/VHDL/04_somador_4b_estrutural/somadorcompleto.vhd|
+Z12 !s107 C:/Users/gusti/Documents/VHDL/04_somador_4b_estrutural/somadorcompleto.vhd|
+!i113 1
+R6
+R7
+Adataflow
+R0
+R1
+DEx4 work 15 somadorcompleto 0 22 6g`_DRz1SG0D7_;_[aOH]3
+l19
+L18
+Vl`d5FFNN^K`bSFzZIcla13
+!s100 lg6d2lVNjknn1[WGkcO7c2
+R3
+32
+R4
+!i10b 1
+R5
+R11
+R12
+!i113 1
+R6
+R7
